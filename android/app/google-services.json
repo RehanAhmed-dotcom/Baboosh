@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "651833859987",
+    "project_id": "babosh-2616e",
+    "storage_bucket": "babosh-2616e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651833859987:android:27a96413f67c82469b5266",
+        "android_client_info": {
+          "package_name": "com.baboosh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651833859987-6stvjior8945d2da74ckteke2j95ogk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHquym_0D7RrrTJF9D8hu1J0-54y6gnKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651833859987-6stvjior8945d2da74ckteke2j95ogk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
